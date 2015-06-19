@@ -4,6 +4,7 @@ locale = \
 	nederlands.locale \
 	deutsch.locale \
 	english.locale \
+	russkij.locale \
 	slovak.locale
 
 locale_unmaintained = \
@@ -16,7 +17,6 @@ locale_unmaintained = \
 	unmaintained/italiano.locale \
 	unmaintained/polski.locale \
 	unmaintained/portugues.locale \
-	unmaintained/russkij.locale \
 	unmaintained/suomi.locale \
 	unmaintained/svenska.locale
 
